@@ -6,7 +6,6 @@ Projeto SQL para controle de vendas de cafés de uma cafeteria fictícia chamada
 
 ## 📂 Estrutura do Projeto
 
-cafeteria-bomgosto/
 ├── sql/     
 
 │ ├── 01_create_tables.sql
