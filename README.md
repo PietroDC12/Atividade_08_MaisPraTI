@@ -6,6 +6,14 @@ Projeto SQL para controle de vendas de cafés de uma cafeteria fictícia chamada
 
 ## 📂 Estrutura do Projeto
 
+cafeteria-bomgosto/
+├── sql/
+│ ├── 01_create_tables.sql
+│ ├── 02_insert_data.sql
+│ ├── 03_queries.sql
+│ └── 04_drop_tables.sql
+└── README.md
+
 - **01_create_tables.sql** → Criação das tabelas do banco  
 - **02_insert_data.sql** → Inserção de dados de exemplo  
 - **03_queries.sql** → Consultas SQL das questões propostas  
