@@ -17,12 +17,15 @@ Projeto SQL para controle de vendas de cafés de uma cafeteria fictícia chamada
     ```sql
       CREATE DATABASE bomgosto; 
     ```
+2. Execute o script de criação das tabelas
     ```sql
       psql -U usuario -d bomgosto -f sql/01_create_tables.sql
     ```
+3. Popule o banco com dados de exemplo
     ```sql
       psql -U usuario -d bomgosto -f sql/02_insert_data.sql
     ```
+4. Execute as consultas
     ```sql
       psql -U usuario -d bomgosto -f sql/03_queries.sql
     ```
